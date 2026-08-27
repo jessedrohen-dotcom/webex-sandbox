@@ -8,10 +8,10 @@
       "id": "1",
       "areaCode": "516",
       "e164": "15161111212",
-      "zipCode": "78613",
+      "zipCode": "11001",
       "actNum": "11111",
-      "city": "Austin",
-      "state": "TX"
+      "city": "Long Island",
+      "state": "NY"
     },
     {
       "firstName": "Bruce",
@@ -21,10 +21,10 @@
       "id": "2",
       "areaCode": "512",
       "e164": "15128540000",
-      "zipCode": "45490",
+      "zipCode": "78701",
       "actNum": "22222",
-      "city": "Dayton",
-      "state": "OH"
+      "city": "Austin",
+      "state": "TX"
     },
     {
       "firstName": "Steve",
