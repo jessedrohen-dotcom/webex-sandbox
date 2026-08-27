@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "userID": "tstark",
+      "email": "tstark@marvel.com",
+      "id": "1",
+      "areaCode": "516",
+      "e164": "+15161111212",
+      "zipCode": "11001",
+      "actNum": "11111",
+      "city": "Long Island",
+      "state": "NY"
+    },
+    {
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "userID": "bbanner",
+      "email": "bbanner@marvel.com",
+      "id": "2",
+      "areaCode": "937",
+      "e164": "+19372221212",
+      "zipCode": "45490",
+      "actNum": "22222",
+      "city": "Dayton",
+      "state": "OH"
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "userID": "srogers",
+      "email": "srogers@marvel.com",
+      "id": "3",
+      "areaCode": "718",
+      "e164": "+17183331212",
+      "zipCode": "11201",
+      "actNum": "33333",
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    {
+      "firstName": "Stephen",
+      "lastName": "Strange",
+      "userID": "sstrange",
+      "email": "sstrange@marvel.com",
+      "id": "4",
+      "areaCode": "212",
+      "e164": "+12124441212",
+      "zipCode": "10012",
+      "actNum": "44444",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "userID": "pparker",
+      "email": "pparker@marvel.com",
+      "id": "5",
+      "areaCode": "718",
+      "e164": "+17185551212",
+      "zipCode": "11375",
+      "actNum": "55555",
+      "city": "Queens",
+      "state": "NY"
+    }
+  ]
+}
